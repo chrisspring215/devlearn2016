@@ -14,7 +14,7 @@
 09. Content Governence - Managment is critical
 10. Multiple LRS providers - or you can roll your own
 11. Be careful about what vocabulary you use.
-12. 
+
 
 HOW DO YOU IMPEMENT REAL WORLD DATA ENTRY? STREAMLINED?
 
@@ -57,6 +57,63 @@ HOW DO YOU IMPEMENT REAL WORLD DATA ENTRY? STREAMLINED?
 		Create Hypos and look for both this that confirm and things that go aganst
 		Dashoboards can be dangerous
 
+# SMEs CAN WE TALK
+	
+	What is the difference between TRAINING and EDUCATION?
 
+	## PROJECT KICKOFF
+		Meeting Agenda:
+			Set up how people communicate/methods
+			Set the process and their expetations/concenquesces
+				Find out a secondary person that can provide content if needed
+			Who needs to be there:
+				department heads
+				people with longegitivy
+				people that are experincing the heartburn from the problem
 
+		Map the process:
+			Find out how people want to be communicated with and how offten
+			Figure out when a web meeting is fine and when people need to be face to face
+			What dates, deadlines and event do I need to know about?
+
+		Setting Expectation
+			When asking for feedback be very speciffic about what input you are looking for and remember that they are still importaint.
+
+## Making You Instruction Learnable - Patti Shank
+
+	Look up Replicability
+
+	Use research proven tactics
+	Teaching people the way they like to learn does not work (look at research)
+	Memory is a larg constraint in what people can learn.
+	Working Memory shoul dbe the focus of of all teaching
+	Learning is a combination of working memory and pulling things out of long tearm memory
+		You cannot shove info at people (craming 12 lessons in at the end of a semester).
+	Revisiting the learning is critical, you will lose most info that is not that is not repeatedly revisited
+		Figure out what we are doing to overwhelm memory
+	CONEPTS:
+		Readability - 
+			You need a readability score of 60-70
+			If you make people slow down to read, they simply stop.
+		Usablility - How easy an object is to use
+
+	Learning Objects should al ways be provided
+	What can we do to help people to remember - 
+		You must chunk out learning esp on the web
+	Practics under the same context as use
+	Senerieons do not need to look like the job, they need to feel like the job. Unless highly technichal
+	Adaptive learning should be split into novices and experts, not along learning styles
+	Self-Check (look in to it)
+
+## Dirty Little Secretes in eLearning
+
+	LEarning objectives are for designers but if you are putting them in to a sotry type
+
+## Wearables
+
+	Its a way to get data from the real world.
+
+## HOW TO INCORPORATE ADAPTIVE LEARNING PRACTICES INTO ELEARNING
+
+	
 
