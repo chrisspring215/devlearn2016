@@ -95,7 +95,7 @@ HOW DO YOU IMPEMENT REAL WORLD DATA ENTRY? STREAMLINED?
 		Readability - 
 			You need a readability score of 60-70
 			If you make people slow down to read, they simply stop.
-		Usablility - How easy an object is to use
+		Usablility# - How easy an object is to use
 
 	Learning Objects should al ways be provided
 	What can we do to help people to remember - 
@@ -115,5 +115,87 @@ HOW DO YOU IMPEMENT REAL WORLD DATA ENTRY? STREAMLINED?
 
 ## HOW TO INCORPORATE ADAPTIVE LEARNING PRACTICES INTO ELEARNING
 
+ADAPTIVE LEARNING PRINCIPALES
+
+	Helps identify where we should spend limited time and resources
+	Realtime
+	Customized learning paths
+
+
+	PRINCPLES
+		Content
+			Takes learners actions and prsents other materials based on their actions, feedback
+				Branching
+				User initiated deep dives
+				Optional tips
+
+		Assessment
+			Changes based on correct or incorrect answers
+			Can give harder or simpler questions
+			Allows for the Testing Out of other content
+			Can be addapted 
+
+			LOOK AT YOUR LOGIC MAP PICTURE
+
+		Sequence
+			Repeating content based on performance
+
+## Making FUture Focused Platform decitions with the xAPI
+
+	http://qrs.ly/945cvya
+
+	Can allow us not not only identify if someone is trainned, but if they are proffecent. (How many of our apprens are proffecent)
+	Removes data silos
+	There is a blending between LRM and LMS
+	(Is ther a difference between aprens with IPs and TIs)
+
+## Not everything that can be tracked should be tracked in eLearning
+
+	Jessica Knox
+	Define Analytics
+	If we are going to do a slow roll out we can track to see if the changes are helping
+	Data empowers us to make better decitions
+	Look into Talent Analytics
+	Data is most valuable durning the stratigy phase of development
+	Setting Objectives is critical
+	Look into Google Sentiment tool
+
+	So what do we really care about:
+		Triple Aim Framework (E,E,E)
+
+		Effectiveness can mean
+			Behavior Change
+			Biz Indicators or outcomes
+
+			What is my/thesstakeholders goals. The can be different
+			What does sucess look like
+
+	DATA SOURCES
+		LMS, LRS
+		HR
+		EMail phone activity
+		Social network activity
+		Surveys
+
+	Metrics are what we mesure and require a unit
+
+	Take Baselines upfront
+
+	Process:
+		1. KNow your objective
+		2. define your hypo
+		3. Define metrics
+		4. Set upand collect
+		5. Analyze and draw insight
+
+## Style Guides
+
 	
+
+
+
+	
+
+
+
 
